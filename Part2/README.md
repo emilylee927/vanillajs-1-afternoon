@@ -71,7 +71,8 @@ In this step, we will create input fields that can be used to pass information t
   - Make two input fields that are of type text, each with their own unique id. call the first id `idInput` and the second one `colorInput`.
   - Lets also give them a place holder value that will appear if nothing is typed into the input boxes. the input with the id of `idInput` should have a place holder of `placeholder='Set ID'`. The other one should have `placeholder='Set Color'`.
 - Inside `index.js` we need to select the two inputs using `getElementById`. Select both inputs and save them into variables so we can access them later.
-  - `console.log` the variables to make sure that you got the correct elements.
+  - `console.log` the 
+  variables to make sure that you got the correct elements.
 
 </details>
 
